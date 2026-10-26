@@ -19,13 +19,24 @@
         <item name="android:textColor">@color/coffee_dark</item>
     </style>
 
+    <!-- Иконка 24dp в кнопке 36dp: боковые отступы (36 - 24) / 2 = 6dp, чтобы иконка стояла по центру -->
     <style name="Widget.Coffee.StepperButton" parent="Widget.Material3.Button.IconButton">
         <item name="android:insetTop">0dp</item>
         <item name="android:insetBottom">0dp</item>
         <item name="android:minWidth">0dp</item>
         <item name="android:minHeight">0dp</item>
+        <item name="android:paddingStart">6dp</item>
+        <item name="android:paddingEnd">6dp</item>
         <item name="iconPadding">0dp</item>
         <item name="iconGravity">textStart</item>
         <item name="iconTint">@color/coffee_primary</item>
+    </style>
+
+    <!-- Круглые кнопки на hero: иконка 24dp в кнопке 44dp, отступы (44 - 24) / 2 = 10dp -->
+    <style name="Widget.Coffee.HeroButton" parent="Widget.Material3.Button.IconButton.Filled.Tonal">
+        <item name="android:paddingStart">10dp</item>
+        <item name="android:paddingEnd">10dp</item>
+        <item name="iconPadding">0dp</item>
+        <item name="iconGravity">textStart</item>
     </style>
 </resources>

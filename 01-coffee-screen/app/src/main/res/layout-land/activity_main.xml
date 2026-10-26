@@ -33,7 +33,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonBack"
-            style="@style/Widget.Material3.Button.IconButton.Filled.Tonal"
+            style="@style/Widget.Coffee.HeroButton"
             android:layout_width="44dp"
             android:layout_height="44dp"
             android:layout_marginStart="16dp"
@@ -43,7 +43,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonFavorite"
-            style="@style/Widget.Material3.Button.IconButton.Filled.Tonal"
+            style="@style/Widget.Coffee.HeroButton"
             android:layout_width="44dp"
             android:layout_height="44dp"
             android:layout_gravity="end"
