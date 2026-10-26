@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Меню кофейни</string>
+    <string name="title_menu">Меню</string>
+    <string name="button_add">Добавить в заказ</string>
+    <string name="price_format">%d ₽</string>
+    <string name="added_format">Добавлено: %s</string>
+</resources>

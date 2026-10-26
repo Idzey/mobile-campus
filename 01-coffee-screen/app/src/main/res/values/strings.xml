@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Кофейня</string>
+
+    <string name="product_name">Капучино</string>
+    <string name="product_subtitle">Эспрессо с воздушной молочной пенкой</string>
+    <string name="rating">4.8 (1 204)</string>
+    <string name="time_format">3 мин</string>
+    <string name="volume_format">%d мл</string>
+    <string name="kcal_format">%d ккал</string>
+
+    <string name="section_size">Размер</string>
+    <string name="section_milk">Молоко</string>
+    <string name="section_sugar">Сахар</string>
+    <string name="section_description">Описание</string>
+    <string name="section_addons">Добавки</string>
+
+    <string name="milk_regular">Обычное</string>
+    <string name="milk_oat">Овсяное +50 ₽</string>
+    <string name="milk_almond">Миндальное +60 ₽</string>
+    <string name="milk_coconut">Кокосовое +60 ₽</string>
+    <string name="milk_none">Без молока</string>
+
+    <string name="sugar_none">Без сахара</string>
+    <plurals name="sugar_spoons">
+        <item quantity="one">%d ложка</item>
+        <item quantity="few">%d ложки</item>
+        <item quantity="many">%d ложек</item>
+        <item quantity="other">%d ложки</item>
+    </plurals>
+
+    <string name="description_text">Классический итальянский напиток: насыщенный двойной эспрессо из свежеобжаренных зёрен и нежное взбитое молоко. Сверху плотная бархатистая пенка с рисунком от бариста. Подаётся горячим, идеально подходит к утренней выпечке.</string>
+    <string name="more">Ещё</string>
+    <string name="less">Свернуть</string>
+
+    <string name="addon_syrup">Карамельный сироп</string>
+    <string name="addon_shot">Дополнительный шот</string>
+    <string name="addon_cream">Взбитые сливки</string>
+    <string name="price_format">%d ₽</string>
+    <string name="price_plus_format">+%d ₽</string>
+
+    <string name="total">Итого</string>
+    <string name="add_to_cart">В корзину</string>
+    <string name="added_format">Добавлено: %1$d × Капучино %2$s — %3$d ₽</string>
+
+    <string name="cd_back">Назад</string>
+    <string name="cd_favorite">В избранное</string>
+    <string name="cd_minus">Уменьшить количество</string>
+    <string name="cd_plus">Увеличить количество</string>
+</resources>

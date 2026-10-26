@@ -1,0 +1,31 @@
+<resources>
+    <style name="Theme.CoffeeScreen" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/coffee_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/latte</item>
+        <item name="colorOnPrimaryContainer">@color/coffee_dark</item>
+        <item name="colorSecondary">@color/caramel</item>
+        <item name="colorSecondaryContainer">@color/latte</item>
+        <item name="colorOnSecondaryContainer">@color/coffee_dark</item>
+        <item name="colorSurface">@color/cream</item>
+        <item name="colorOnSurface">@color/coffee_dark</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+
+    <style name="TextAppearance.Coffee.Section" parent="TextAppearance.Material3.TitleMedium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/coffee_dark</item>
+    </style>
+
+    <style name="Widget.Coffee.StepperButton" parent="Widget.Material3.Button.IconButton">
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="iconPadding">0dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconTint">@color/coffee_primary</item>
+    </style>
+</resources>

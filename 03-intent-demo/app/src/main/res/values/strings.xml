@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent Showcase</string>
+    <string name="title_main">Введите текст</string>
+    <string name="hint_message">Текст сообщения</string>
+    <string name="button_explicit">Открыть через Intent</string>
+    <string name="button_implicit">Открыть через неявный Intent</string>
+    <string name="button_back">Назад</string>
+    <string name="kind_explicit">(Intent)</string>
+    <string name="kind_implicit">(неявный Intent)</string>
+    <string name="error_empty">Введите текст</string>
+    <string name="error_no_activity">Не найдено приложение для обработки</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <!-- Базовые значения для самых маленьких телефонов (до 360dp) -->
+    <dimen name="hero_height">230dp</dimen>
+    <dimen name="content_padding">16dp</dimen>
+    <dimen name="title_size">22sp</dimen>
+    <dimen name="hero_button_margin">12dp</dimen>
+    <dimen name="bar_padding">12dp</dimen>
+</resources>

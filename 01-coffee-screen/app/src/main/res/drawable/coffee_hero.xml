@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- тень под блюдцем -->
+    <path
+        android:fillColor="#26000000"
+        android:pathData="M20,128a100,100 0 1,0 200,0a100,100 0 1,0 -200,0z" />
+    <!-- блюдце -->
+    <path
+        android:fillColor="#F7ECDD"
+        android:pathData="M20,120a100,100 0 1,0 200,0a100,100 0 1,0 -200,0z" />
+    <path
+        android:fillColor="#EBD3B8"
+        android:pathData="M36,120a84,84 0 1,0 168,0a84,84 0 1,0 -168,0z" />
+    <!-- ручка -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M180,106h18a14,14 0 0,1 0,28h-18v-9h18a5,5 0 0,0 0,-10h-18z" />
+    <!-- чашка -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,120a66,66 0 1,0 132,0a66,66 0 1,0 -132,0z" />
+    <path
+        android:fillColor="#F1E2D0"
+        android:pathData="M60,120a60,60 0 1,0 120,0a60,60 0 1,0 -120,0z" />
+    <!-- кофе -->
+    <path
+        android:fillColor="#8B5A3C"
+        android:pathData="M64,120a56,56 0 1,0 112,0a56,56 0 1,0 -112,0z" />
+    <!-- пенка -->
+    <path
+        android:fillColor="#E9CFAE"
+        android:pathData="M76,120a44,44 0 1,0 88,0a44,44 0 1,0 -88,0z" />
+    <!-- сердечко латте-арт -->
+    <path
+        android:fillColor="#8B5A3C"
+        android:pathData="M120,142C98,126 102,104 114,104C118,104 120,107 120,109C120,107 122,104 126,104C138,104 142,126 120,142z" />
+    <!-- кофейные зёрна -->
+    <path
+        android:fillColor="#5A3624"
+        android:pathData="M22,214a9,6 -30,1,0 18,-10a9,6 -30,1,0 -18,10z" />
+    <path
+        android:fillColor="#5A3624"
+        android:pathData="M206,34a9,6 25,1,0 18,8a9,6 25,1,0 -18,-8z" />
+</vector>
